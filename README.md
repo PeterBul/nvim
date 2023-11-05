@@ -1,4 +1,4 @@
-My git config based on:
+My neovim config based on:
 
 # 💤 LazyVim
 
