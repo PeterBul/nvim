@@ -10,6 +10,12 @@ return {
           find_files = {
             path_display = { "truncate" },
           },
+          oldfiles = {
+            path_display = { "truncate" },
+          },
+          lsp_references = {
+            path_display = { "truncate" },
+          },
         },
       })
       return opts
